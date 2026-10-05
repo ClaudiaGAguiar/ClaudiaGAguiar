@@ -4,18 +4,18 @@ I hold a degree in Mathematical Engineering and am currently studying for a Mast
 ## 🛠️ Tecnologías
 
 ### Data Analysis
-Python · Pandas · NumPy · R
+- Python · Pandas · NumPy · R
 
 ### Databases
-SQL · SQLite · Cassandra · NoSQL
+- SQL · SQLite · Cassandra · NoSQL
 
 ### Visualization & BI
-Power BI · Matplotlib · Seaborn
+- Power BI · Matplotlib · Seaborn
 
 ### Machine Learning
-Scikit-learn · TensorFlow · Keras · PyTorch
+- Scikit-learn · TensorFlow · Keras · PyTorch
 
 ### Tools
-Git · GitHub · Jupyter · VS Code
+- Git · GitHub · Jupyter · VS Code
 
 ## 📂 Proyectos destacados
