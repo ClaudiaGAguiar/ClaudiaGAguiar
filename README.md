@@ -1,16 +1,21 @@
-## Hi there 👋
+# Claudia García Aguiar
+I hold a degree in Mathematical Engineering and am currently studying for a Master’s degree in Data Science, with a background in data analysis, statistics, databases, machine learning and visualisation. In this portfolio, I showcase projects ranging from data extraction and processing to analysis, visualisation and the development of predictive models.
 
-<!--
-**ClaudiaGAguiar/ClaudiaGAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologías
 
-Here are some ideas to get you started:
+### Data Analysis
+Python · Pandas · NumPy · R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases
+SQL · SQLite · Cassandra · NoSQL
+
+### Visualization & BI
+Power BI · Matplotlib · Seaborn
+
+### Machine Learning
+Scikit-learn · TensorFlow · Keras · PyTorch
+
+### Tools
+Git · GitHub · Jupyter · VS Code
+
+## 📂 Proyectos destacados
