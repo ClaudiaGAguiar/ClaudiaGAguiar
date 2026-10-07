@@ -1,7 +1,7 @@
 # Claudia García Aguiar
 I hold a degree in Mathematical Engineering and am currently studying for a Master’s degree in Data Science, with a background in data analysis, statistics, databases, machine learning and visualisation. In this portfolio, I showcase projects ranging from data extraction and processing to analysis, visualisation and the development of predictive models.
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 ### Data Analysis
 - Python
@@ -32,4 +32,4 @@ I hold a degree in Mathematical Engineering and am currently studying for a Mast
 - Jupyter
 - VS Code
 
-## 📂 Proyectos destacados
+## 📂 Projects
